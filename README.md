@@ -1,4 +1,4 @@
-A forked version of a horror game group project in UNITY
+A Unity-made horror level - group project.
 
 Made use of C#'s potential robust coding abilities in the engine and had fun with a lot of Engine aspects such as:
 
