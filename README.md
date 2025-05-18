@@ -12,4 +12,4 @@ Sculpting
 
 Audio (a Lot)
 
-To sum up, I did a lot of design part in this level, and didn't forget to complement it with technical part as a robust C# code when it was needed for the Level to correspond to the Horror Setting.
+To sum up, I did a lot of design work in this level, and didn't forget to complement it with a robust C# part when it was needed to correspond to the Horror Setting.
